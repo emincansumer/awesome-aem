@@ -9,3 +9,4 @@ Curated list of Adobe Experience Manager-CQ5 Resources
 * Maven template to create a new AEM project - https://github.com/Adobe-Marketing-Cloud/aem-project-archetype
 * A list of java resources - https://github.com/akullpp/awesome-java
 * Adobe AEM CQ5 Interview Questions and Answers for Beginners - http://www.aemcq5tutorials.com/interview-questions/adobe-aem-cq5-interview-questions-beginners/
+* AEM Podcasts Blog - http://aempodcast.com/
